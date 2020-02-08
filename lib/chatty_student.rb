@@ -1,4 +1,4 @@
-class Student
+class Chatty_Student
 
 
 
